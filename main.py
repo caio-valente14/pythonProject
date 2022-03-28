@@ -5,5 +5,5 @@ def printName(name):
 
 
 if __name__ == '__main__':
-	name = 'Gabi'
+	name = 'Laura'
 	printName(name)
